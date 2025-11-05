@@ -52,22 +52,22 @@ const data = {
   ],
   navMain: [
     {
-      title: "Product",
+      title: "Category",
       url: "/",
       icon: SquareTerminal,
       isActive: true,
       items: [
         {
-          title: "All Products",
-          url: "all-products",
+          title: "All categories",
+          url: "/all-categories",
         },
         {
-          title: "Create product",
-          url: "/create-product",
+          title: "Create category",
+          url: "/create-category",
         },
         {
-          title: "Update product",
-          url: "/update-product",
+          title: "Update category",
+          url: "/update-category",
         },
       ],
     },

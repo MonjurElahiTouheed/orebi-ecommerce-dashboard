@@ -21,7 +21,8 @@ import { Input } from "@/components/ui/input"
 import { useForm } from "react-hook-form"
 import axios from 'axios';
 
-const CreateProduct = () => {
+const CreateCategory = () => {
+  
   const {
     register,
     handleSubmit,
@@ -255,4 +256,4 @@ const CreateProduct = () => {
   )
 }
 
-export default CreateProduct
+export default CreateCategory
