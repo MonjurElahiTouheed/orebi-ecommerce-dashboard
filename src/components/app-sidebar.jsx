@@ -72,36 +72,36 @@ const data = {
       ],
     },
     {
-      title: "Models",
-      url: "#",
+      title: "Sub-category",
+      url: "/",
       icon: Bot,
       items: [
         {
-          title: "Genesis",
-          url: "#",
+          title: "All sub categories",
+          url: "/all-sub-categories",
         },
         {
-          title: "Explorer",
-          url: "#",
+          title: "Create sub category",
+          url: "/create-sub-category",
         },
         {
-          title: "Quantum",
-          url: "#",
+          title: "Update sub category",
+          url: "/update-sub-category",
         },
       ],
     },
     {
-      title: "Documentation",
+      title: "Product",
       url: "#",
       icon: BookOpen,
       items: [
         {
-          title: "Introduction",
+          title: "All Product",
           url: "#",
         },
         {
-          title: "Get Started",
-          url: "#",
+          title: "Create Product",
+          url: "/create-product",
         },
         {
           title: "Tutorials",
